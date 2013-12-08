@@ -1,0 +1,51 @@
+{
+  "name": "ishosc",
+  "description": "Drive .ish with a mobile device via OSC.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/urshunkler2/ishosc",
+  "author": {
+    "name": "Urs Hunkler",
+    "email": "urs.hunkler@unodo.de",
+    "url": "http://unodo.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/urshunkler2/ishosc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/urshunkler2/ishosc/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/urshunkler2/ishosc/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/ishosc",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt": "~0.4.2",
+    "coffee-script": "~1.6.3",
+    "grunt-contrib-coffee": "~0.7.0"
+  },
+  "keywords": [
+    "ish.",
+    "mobile",
+    "responive",
+    "webdesign",
+    "webdevelopment",
+    "OSC"
+  ],
+  "dependencies": {
+    "applescript": "~0.2.1",
+    "optimist": "~0.6.0",
+    "express": "~3.4.6",
+    "node-osc": "~0.2.1",
+    "socket.io": "~0.9.16"
+  }
+}
