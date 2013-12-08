@@ -53,9 +53,12 @@ If you want to create your own **OSC client** you may check the messages the **O
 #### The TouchOSC layout
 The TouchOSC layout offers 3 pages
 
-1. The first page with buttons to trigger the **S**mall-ish, **M**edium-ish, **L**arge-ish, **Random**, **Disco** and **Hay** ish. buttons.
-2. The second page with buttons to fine tune the ish. viewport width in three step sizes: 1px up and down, 1em up and down, 5em up and down. Similar to the use of the curser arrows in the px and em fields in ish.
-3. The third one is a big round control to individually control the ish. viewport width with your thumb or fingers. The first two pages map ish. controls, the round control on the third page offers a different way to interact with the ish.
+The **first** page with buttons to trigger the **S**mall-ish, **M**edium-ish, **L**arge-ish, **Random**, **Disco** and **Hay** ish. buttons.
+![OSC page 1](https://raw.github.com/uhunkler/ishosc/blob/master/documentation/images/OSCpage1.png)
+The **second** page with buttons to fine tune the ish. viewport width in three step sizes: 1px up and down, 1em up and down, 5em up and down. Similar to the use of the curser arrows in the px and em fields in ish.
+![OSC page 2](https://raw.github.com/uhunkler/ishosc/blob/master/documentation/images/OSCpage2.png)
+The **third** one is a big round control to individually control the ish. viewport width with your thumb or fingers. The first two pages map ish. controls, the round control on the third page offers a different way to interact with the ish.
+![OSC page 3](https://raw.github.com/uhunkler/ishosc/blob/master/documentation/images/OSCpage3.png)
 
 All three pages offer a display to show the actual ish. viewport px and em value.
 
