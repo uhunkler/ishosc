@@ -6,7 +6,7 @@ Drive Brad Frost's [ish.](http://bradfrostweb.com/demo/ish/) with a "remote cont
 Install the git repository. Install the related node modules with `npm install`.
 
 ## Documentation
-This repository contains a modified ish. 2 version. I removed the PHP dependencies and replaced the functionality via JavaScript and added the socket.io module and the communication JavaScript between ish. and the web server.
+This repository contains a modified ish. 2 version. I removed the PHP dependencies and replaced the functionality via JavaScript and added the socket.io module and the communication JavaScript for the message sending between ish. and the web server.
 
 ### The web server
 To start the tool from the command line you may "change directory" into the `ishosc` folder and type `node ./lib/ishosc.js`. With this command you start a local node web server with socket.io and the OSC server. You may then open the URL "http://localhost:8080" in your browser to start ish.
