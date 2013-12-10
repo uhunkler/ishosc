@@ -2,7 +2,7 @@
   "name": "ishosc",
   "description": "Drive .ish with a mobile device via OSC.",
   "version": "0.1.0",
-  "homepage": "https://github.com/urshunkler2/ishosc",
+  "homepage": "https://github.com/uhunkler/ishosc",
   "author": {
     "name": "Urs Hunkler",
     "email": "urs.hunkler@unodo.de",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/urshunkler2/ishosc.git"
+    "url": "git://github.com/uhunkler/ishosc.git"
   },
   "bugs": {
-    "url": "https://github.com/urshunkler2/ishosc/issues"
+    "url": "https://github.com/uhunkler/ishosc/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/urshunkler2/ishosc/blob/master/LICENSE-MIT"
+      "url": "https://github.com/uhunkler/ishosc/blob/master/LICENSE-MIT"
     }
   ],
   "main": "lib/ishosc",

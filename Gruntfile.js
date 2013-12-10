@@ -14,9 +14,9 @@ module.exports = function(grunt) {
       gruntfile: {
         src: 'Gruntfile.js'
       },
-      // lib: {
-      //   src: ['lib/**/*.js']
-      // },
+//      lib: {
+//         src: ['lib/**/*.js']
+//      },
       test: {
         src: ['test/**/*.js']
       }
@@ -48,15 +48,15 @@ module.exports = function(grunt) {
       coffee: {
         files: ['src/**/*.coffee'],
         tasks: ['coffee:compile']
-      },
+      }
 //      lib: {
 //        files: '<%= jshint.lib.src %>',
 //        tasks: ['jshint:lib', 'nodeunit']
 //      },
-      // test: {
-      //   files: '<%= jshint.test.src %>',
-      //   tasks: ['jshint:test', 'nodeunit']
-      // }
+//      test: {
+//         files: '<%= jshint.test.src %>',
+//         tasks: ['jshint:test', 'nodeunit']
+//      }
     }
   });
 
