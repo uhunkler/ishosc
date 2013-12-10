@@ -67,7 +67,7 @@ The **third** page offers a big round control to modify the ish. viewport width 
 
 All three pages offer a display to show the actual ish. viewport  width in px and em.
 
-The first two pages map ish. controls, the round control on the third page offers a different way to interact with ish. Tappping on the control is similar to **Disco** or **Random** mode. Sliding offers a manual forward and backward "Hay" mode.
+The first two pages map ish. controls, the round control on the third page offers a different way to interact with ish. Tappping on the control is similar to **Disco** or **Random** mode. Sliding offers a manual forward and backward **Hay** mode.
 
 ### Comfort settings for OS X
 For the Mac I added AppleScripts to open Safari or Google Chrome, set the browser window to full screen width and open ish. automatically displaying a preset web page. This way you just start ishosc and get the browser running ish. and your selected web page ready to work with. I start ishosc for example with an [Alfred](http://www.alfredapp.com) workflow by typing "ishosc" into the Alfred dialog and can start to use ish. remotely from my mobile device on the web page I am working with - fast and convenient.
