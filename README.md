@@ -61,7 +61,7 @@ The **second** page with buttons to fine tune the ish. viewport width in three s
 
 ![OSC page 2](https://raw.github.com/uhunkler/ishosc/master/documentation/images/OSCpage2.png)
 
-The **third** page offers a big round control to control the ish. viewport width with your thumb or fingers.
+The **third** page offers a big round control to modify the ish. viewport width with your thumb or fingers.
 
 ![OSC page 3](https://raw.github.com/uhunkler/ishosc/master/documentation/images/OSCpage3.png)
 
